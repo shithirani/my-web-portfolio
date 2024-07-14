@@ -203,3 +203,8 @@ nav ul{
    margin-bottom: 24px;
    border: none;
 }
+@media screen and (max-width){
+    .all-item{
+        flex-direction: column;
+    }
+}
